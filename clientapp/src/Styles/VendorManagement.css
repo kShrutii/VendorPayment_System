@@ -1,0 +1,40 @@
+.vendorManagement button{
+    padding: 5px 20px;
+    font-size: 20px;
+    border: none;
+    color: white;
+    background-color: rgb(79, 79, 204);
+    border-radius: 7px;
+    left: 20%;
+}
+    /* .adminsignup input{
+        height: 36px;
+        width: 300px;
+    } */
+
+    .vendorManagement{
+        /* box-shadow: 0px 0px 10px grey; */
+        /* border-radius: 30px; */
+        text-align: center;
+        height: 100vh;
+        /* height: 420px; */
+        /* width: 500px; */
+        position: absolute;
+        top: 20%;
+        left: 8%;
+        right: 8%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+        
+    }
+    .hero{
+        background: linear-gradient(rgba(0, 0, 0, 0.678) 5%,transparent) ,url("../images/b59ad8de32701b02d1abb870a8a44204.jpg");
+        height: 210vh;
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+    
